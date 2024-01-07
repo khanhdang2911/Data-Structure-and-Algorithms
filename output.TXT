@@ -1,0 +1,23 @@
+Sach1:
+Ten sach la:Dung Viec
+Ma so sach la:105129
+Nam xuat ban cua sach la:2015
+Nha xuat ban la:NXB Giao Duc
+Ten tac gia la:Gian Tu Trung
+Trang thai sach:chua muon
+
+Sach2:
+Ten sach la:Co hoi cua chua
+Ma so sach la:1021144
+Nam xuat ban cua sach la:1999
+Nha xuat ban la:NXB Van Hoc
+Ten tac gia la:Nguyen Viet Ha
+Trang thai sach:da cho muon
+
+Sach3:
+Ten sach la:Tuoi tho du doi
+Ma so sach la:102351
+Nam xuat ban cua sach la:1988
+Nha xuat ban la:NXB Van Hoc
+Ten tac gia la:Phung Quan
+Trang thai sach:chua muon
